@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271401062944",
+    "firebase_url": "https://e-book-33987-default-rtdb.firebaseio.com",
+    "project_id": "e-book-33987",
+    "storage_bucket": "e-book-33987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271401062944:android:d49564ab88b8f1d896a245",
+        "android_client_info": {
+          "package_name": "com.example.e_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271401062944-l5jqrdcjq8vkv0mdbe128rk808ea90f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC275WmQ9XL_CRBNMkGqXqpaq3LmXBU4UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271401062944-l5jqrdcjq8vkv0mdbe128rk808ea90f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

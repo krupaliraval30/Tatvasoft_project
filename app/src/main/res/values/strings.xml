@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-book</string>
+    <string name="todo">TODO</string>
+    <string name="or"><![CDATA[HTML & CSS]]></string>
+</resources>
